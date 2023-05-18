@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @imperfectcomic
+- 👋 Hi, I’m Diya Verma
 - 👀 I’m interested in art and coding
-- 🌱 I’m currently learning html & css
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on art projects
 - 📫 How to reach me- diyav2004@gmail.com
-- 👋 instagram- @imperfectcomic
+- 👋 instagram- @diya0ii
 
 <!---
 imperfectcomic/imperfectcomic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
